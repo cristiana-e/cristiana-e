@@ -18,7 +18,7 @@
   
  ### Apaixonada por Python, Inteligência Artificial e Machine Learning.
  Obcecada pelo estudo das micro-expressões faciais emocionais.<br> 
- Em breve a nova Sherlock na automação de detecção de mentirar. Raw! 🔎
+ Em breve a nova Sherlock na automação de detecção de mentiras. Raw! 🔎
  
  <div>
  <img align="center" alt="Cris_a_Sherlock" src="https://media.tenor.com/images/0723ffad09e514bd4610bf3802d3c3a1/tenor.gif">
