@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=cristiana-e" alt="cristiana-e" /> </p>
+
 <div>
  <img align="center" alt="Cris_obi" height="87" width="200" src="https://i.giphy.com/media/Nx0rz3jtxtEre/giphy.webp">
 </div>
